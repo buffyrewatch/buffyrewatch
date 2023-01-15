@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'buffied';
+  src: url('../fonts/buffied.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -32,26 +40,26 @@
     }
   }
   .author-name {
-    font-family: 'PT Serif', serif;
+    font-family: 'buffied', 'PT Serif', serif;
     margin: 0 0 10px;
     position: relative;
-    padding-bottom: 15px;
-    font-size: 16px;
-    text-transform: uppercase;
+    //padding-bottom: 15px;
+    font-size: 38px;
+    //text-transform: uppercase;
     color: $dark;
     font-weight: 700;
-    &::after {
-      content: "";
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-      bottom: 0;
-      display: block;
-      width: 7px;
-      height: 7px;
-      border-radius: 100%;
-      background-color: $body-color;
-    }
+    //&::after {
+    //  content: "";
+    //  position: absolute;
+    //  left: 50%;
+    //  transform: translateX(-50%);
+    //  bottom: 0;
+    //  display: block;
+    //  width: 7px;
+    //  height: 7px;
+    //  border-radius: 100%;
+    //  background-color: $body-color;
+    //}
   }
   p {
     font-size: 16px;
