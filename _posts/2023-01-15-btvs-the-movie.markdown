@@ -4,6 +4,7 @@ title: "Buffy the Vampire Slayer : the movie"
 date: 2023-01-15 19:32:20 +0100
 description: Our review of the 1992 movie Buffy the Vampire Slayer. # Add post description (optional)
 img: buffymovie.png  # Add image post (optional)
+preview_limit: 40
 ---
 
 We began our rewatch by... something we'd actually never watched before: the 1992 Buffy the Vampire Slayer movie (directed by Fran Rubel Kuzui, written by Josh Whedon and with Kristy Swanson as Buffy). We emerged from it... a bit bewildered.
