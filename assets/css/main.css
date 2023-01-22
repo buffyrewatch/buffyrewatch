@@ -1165,14 +1165,14 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 38px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
-  font-family: 'buffied",'PT Serif', serif;
+  font-family: 'buffied','PT Serif', serif;
   text-decoration: none;
-  color: #263959;
+  color: #000000;
 }
 
 .post .post-content p {
