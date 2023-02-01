@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Episode 1x01"
+title: "Episode 1x01 : Welcome to the Hellmouth"
 date: 2023-02-01 15:15:20 +0100
 description: Our review of the first episode of the first season of Buffy the Vampire Slayer. # Add post description (optional)
 img: buffy1x01.jpg  # Add image post (optional)
-preview_limit: 40
+preview_limit: 45
 ---
 *This article contains spoilers for the first episode of Buffy (we don't spoil the other ones though).*
 
