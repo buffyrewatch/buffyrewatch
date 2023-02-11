@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 1x02 : The Harvest"
-date: 2023-02-11 22:15:20 +0100
+date: 2023-02-11 20:15:20 +0100
 description: Our review of the second episode of the first season of Buffy the Vampire Slayer. # Add post description (optional)
 img: buffy1x02.jpg  # Add image post (optional)
 preview_limit: 45
