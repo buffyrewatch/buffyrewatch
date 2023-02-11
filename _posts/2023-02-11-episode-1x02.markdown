@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Episode 1x02 : The Harvest"
+date: 2023-02-11 22:15:20 +0100
+description: Our review of the second episode of the first season of Buffy the Vampire Slayer. # Add post description (optional)
+img: buffy1x02.jpg  # Add image post (optional)
+preview_limit: 45
+---
+*This article contains spoilers for the second episode of Buffy and the one before that (we don't spoil the following ones though).*
+
 **Tellington:** Buffy 1x02! In the end of the previous episode we left our heroine in a bad situation, with the strong Vampire Luke about to, well, kill her.
 
 **Vallantyn:** Oh, oh! I know that one, then they fall in love and start a throuple with a werewolf?
