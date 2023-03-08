@@ -2,7 +2,7 @@
 layout: post
 title: "Episode 1x03 : The Witch"
 date: 2023-03-08 21:56:20 +0100
-description: Our review of the second episode of the first season of Buffy the Vampire Slayer. # Add post description (optional)
+description: Our review of the third episode of the first season of Buffy the Vampire Slayer. # Add post description (optional)
 img: buffy1x03.jpg  # Add image post (optional)
 preview_limit: 45
 ---
